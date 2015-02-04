@@ -1,10 +1,13 @@
-### Application to manipulate notes 
+## Application to manipulate notes 
 
 usage
 ---
 **1.** unzip the archive
 
-**2.** launch from terminal
+**2.** launch from terminal 
 ```bash
-  java -jar %path_to_folder%/notes_jar/notes.jar 
+  # current directory: notes_jar
+  java -jar notes.jar 
 ```
+--
+**note:** *launching from a different directory may throw an* ***exception***
